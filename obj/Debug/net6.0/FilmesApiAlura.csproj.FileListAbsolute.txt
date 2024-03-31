@@ -30,3 +30,16 @@ D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\obj\Debug\net6.0\refint
 D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\obj\Debug\net6.0\FilmesApiAlura.pdb
 D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\obj\Debug\net6.0\FilmesApiAlura.genruntimeconfig.cache
 D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\obj\Debug\net6.0\ref\FilmesApiAlura.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\obj\Debug\net6.0\FilmesApiAlura.sourcelink.json
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Humanizer.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\AutoMapper.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Code\VisualStudio\Alura\FilmesApiAlura\FilmesApiAlura\bin\Debug\net6.0\System.Web.Cors.dll

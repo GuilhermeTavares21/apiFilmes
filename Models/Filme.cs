@@ -4,6 +4,8 @@ namespace FilmesApiAlura.Models;
 
 public class Filme
 {
+    [Key]
+    [Required]
     public int Id { get; set; }
     [Required]
     [MaxLength(50,ErrorMessage = "Número máximo de 50 caracteres")]
